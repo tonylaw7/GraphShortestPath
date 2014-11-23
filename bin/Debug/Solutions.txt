@@ -1,0 +1,12 @@
+A C F I L P R V Y Z 
+
+N,J,M,Q
+N,J,M,L
+N,K,H,E
+N,K,H,J
+N,K,J,M
+N,O,K,H
+N,O,K,J
+N,O,Q,N
+N,O,Q,T
+M,Q,N,K,H,E,A,B,F,I,L,P,R,V,Y,Z,X,U,Q,T,M
